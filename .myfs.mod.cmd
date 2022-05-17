@@ -1,1 +1,0 @@
-cmd_/home/dev/src/linux/tools/labs/skels/./filesystems/myfs/myfs.mod := { echo  /home/dev/src/linux/tools/labs/skels/./filesystems/myfs/myfs.o;  echo; } > /home/dev/src/linux/tools/labs/skels/./filesystems/myfs/myfs.mod
